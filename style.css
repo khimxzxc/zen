@@ -207,6 +207,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 111px;
 }
 
 .bookingcom {
@@ -270,7 +271,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 78.38px;
-    padding-right: 111px;
+    
 }
 
 .aliandmedia {
@@ -278,7 +279,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 95.35px;
-    padding-right: 122px;
+   
 }
 
 .allegroandeuro {
@@ -286,7 +287,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 65.38px;
-    padding-right: 148px;
+    
 }
 
 .zalandoandgroupon {
